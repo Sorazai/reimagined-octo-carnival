@@ -1,6 +1,6 @@
 from GameSchedule import *
 
-schedule = GameSchedule("Chicago Blackhawks")
+schedule = GameSchedule("New York Islanders")
 
 while (True):
     schedule.search_for_games()
